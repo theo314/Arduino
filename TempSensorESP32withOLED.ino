@@ -7,9 +7,9 @@
 #include <Adafruit_SSD1306.h>
 
 // Replace with your network credentials
-const char* ssid = "Offgridparadise";
-const char* password = "gremlins";
-const char* mqtt_server = "192.168.1.26";
+const char* ssid = "xxxxxxxxxxxx";
+const char* password = "xxxxxxxx";
+const char* mqtt_server = "xxx.xxx.x.xx";
 
 WiFiClient espClient;
 PubSubClient client(espClient);
